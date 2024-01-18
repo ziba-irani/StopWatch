@@ -2,7 +2,7 @@
 
 **enjoy of my new javascript mini project**
 
-![Screenshot (70)](https://github.com/ziba-irani/SassProject/assets/125620113/37087219-e0b2-4d18-b002-b5a2deaf4ea6)
+![stopWatch](https://github.com/ziba-irani/StopWatch/assets/125620113/0758788f-7bd6-4071-9efd-368e37e10f77)
 
 - [Demo Project](https://ziba-irani.github.io/StopWatch/)
 
